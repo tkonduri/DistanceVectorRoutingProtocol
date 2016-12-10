@@ -1,0 +1,6 @@
+C:\cn\GIT\EdgeValueChanger\EdgeValueChanger\bin\Debug\EdgeValueChanger.exe.config
+C:\cn\GIT\EdgeValueChanger\EdgeValueChanger\bin\Debug\EdgeValueChanger.exe
+C:\cn\GIT\EdgeValueChanger\EdgeValueChanger\bin\Debug\EdgeValueChanger.pdb
+C:\cn\GIT\EdgeValueChanger\EdgeValueChanger\obj\Debug\EdgeValueChanger.csprojResolveAssemblyReference.cache
+C:\cn\GIT\EdgeValueChanger\EdgeValueChanger\obj\Debug\EdgeValueChanger.exe
+C:\cn\GIT\EdgeValueChanger\EdgeValueChanger\obj\Debug\EdgeValueChanger.pdb
